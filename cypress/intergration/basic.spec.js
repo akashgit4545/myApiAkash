@@ -11,5 +11,8 @@ describe("start with basic cypress commands", () => {
   it("adding by branch", () => {
     cy.visit("https://www.youtube.com/");
   });
-  
+  it("adding by branch", () => {
+    cy.visit("https://www.youtube.com/");
+  });
+
 });
