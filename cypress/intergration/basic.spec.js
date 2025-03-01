@@ -7,15 +7,4 @@ describe("start with basic cypress commands", () => {
   it("second url to viit", () => {
     cy.visit("https://www.youtube.com/");
   });
-
-  it("adding by branch", () => {
-    cy.visit("https://www.youtube.com/");
-  });
-  it("adding by branch", () => {
-    cy.visit("https://www.youtube.com/");
-  });
-  it("adding by branch", () => {
-    cy.visit("https://www.youtube.com/");
-  });
-
 });
